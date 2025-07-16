@@ -1,0 +1,23 @@
+
+# MedoFit React Project
+
+## Instalacija
+1. Otvori terminal i pokreni:
+```
+npm install
+```
+
+## Lokalno pokretanje
+```
+npm run dev
+```
+
+## Deploy na Vercel
+1. Napravi besplatan nalog na https://vercel.com
+2. Klikni na "New Project" i poveži sa GitHub repo ili uploaduj ovaj folder direktno.
+3. Klikni Deploy i dobićeš link (npr. https://medofit.vercel.app).
+
+## Funkcionalnosti
+- Jezički preklopnik (SR/DE/EN)
+- AI Chatbot
+- Sekcije: kolekcije, recenzije, newsletter
